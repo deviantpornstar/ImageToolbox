@@ -1,6 +1,6 @@
 <div align="center">
 </br>
-<img src="./fastlane/metadata/android/en-US/images/logo/logo.png" width="200" />
+<img src="./fastlane/metadata/android/en-US/images/logo/logo.png" width7="200" />
 
 </div>
 
